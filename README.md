@@ -19,3 +19,5 @@ Celle-ci est composée des tables suivantes :ElectronicDevice, Heater, Home, PER
 
 -Mettre lepersistence.xml en mode update
 
+
+
