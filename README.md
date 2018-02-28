@@ -12,3 +12,10 @@ CONDE ALY LAYE ET NANTENIN DOUMBIA
 Lancement: Pour la base de données nous avons choisis une base de données MySQL de l'istic 
 via http://anteros.istic.univ-rennes1.fr puis modifier le fichier persistence.xml pour la connection à la base de données. 
 Celle-ci est composée des tables suivantes :ElectronicDevice, Heater, Home, PERS_HOME, Person.
+
+-Lancer la classe AppTest pour remplir la BDD
+
+-Lancer Maven en faisant un clic droit sur le projet ensuite run as -> maven build …-> mettre tomcat7:run dans le goals
+
+-Mettre lepersistence.xml en mode update
+
